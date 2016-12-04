@@ -22,7 +22,7 @@ Interesting modules or functions:
 Strings
 ---
 ####Format printed strings
-```python
+```python 
 my_eyes = 'Blue'
 my_hair = 'Brown'
 print "He's got %s eyes and %s hair." % (my_eyes, my_hair)
